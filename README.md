@@ -7,12 +7,12 @@
 
   <!-- Social Icons -->
   <p>
-    <a href="https://www.tiktok.com/@sl_code_hub?_t=8lB3USQZmPh&_r=1">
-      <img src="https://cdn-icons-png.flaticon.com/128/3046/3046126.png" alt="TikTok" width="50">
-    </a>
-    <a href="https://youtube.com/@sL_Code_HuB?si=c6Gt4TW4xBhjLSdz">
-      <img src="https://cdn-icons-png.flaticon.com/128/3938/3938037.png" alt="YouTube" width="50">
-    </a>
+     <a href="https://www.tiktok.com/@chula.code.hub?_t=ZS-8yhsKqlHPJl&_r=1">
+    <img src="https://cdn-icons-png.flaticon.com/128/15713/15713399.png" alt="TikTok" width="50"/>
+  </a>
+  <a href="https://youtube.com/@charithsasmitha?si=kK95pYsKI7itrbFv">
+    <img src="https://cdn-icons-png.flaticon.com/128/3938/3938037.png" alt="YouTube" width="50"/>
+  </a>
   </p>
 </div>
 
